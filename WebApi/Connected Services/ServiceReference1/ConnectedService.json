@@ -1,0 +1,19 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://www.e-sad.gov.pl/api2/EpuWS.EpuService.svc?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.1}"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
